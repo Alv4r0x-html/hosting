@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+   
+</head>
+<body>
+    <header>
+		<div class="cabeza">
+			<div class="logo">Aplicando Estilos CSS</div>
+			<nav>
+				<a href="index.html">Inicio</a>
+				<a href="#">Contacto</a>
+				<a href="login.html">Login</a>
+			</nav>
+		</div>
+
+	</header>
+			
+	<hr> 
+
+	<div class="contenedor1">
+			<div class="subcontenedor1">
+				<h1>A</h1>
+			</div>
+		</div>
+	
+		<div class="A1">
+			<div class="subA1"></div>
+		</div>
+			<div class="A2">
+				<div class="subA2"></div>
+			</div>
+				<div class="A3">
+					<div class="subA3"></div>
+				</div>
+					<div class="A4">
+						<div class="subA4"></div>
+					</div>
+						<div class="A5">
+							<div class="subA5"></div>
+						</div>
+	
+</body>
+
+</html>
